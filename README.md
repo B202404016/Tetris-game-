@@ -1,6 +1,6 @@
 # 🧊 Tetris Console Edition 🎮
 
-![Tetris Banner](https://via.placeholder.com/1200x400/2d3748/ffffff?text=Tetris+Console+Edition+C++)
+![Tetris Banner]([https://via.placeholder.com/1200x400/2d3748/ffffff?text=Tetris+Console+Edition+C++](https://github.com/B202404016/Tetris-game-/blob/main/R.png))
 
 A complete implementation of classic Tetris for Windows console, featuring authentic gameplay mechanics, responsive controls, and clean ASCII visualization.
 
