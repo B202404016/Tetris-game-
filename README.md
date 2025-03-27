@@ -227,5 +227,5 @@ git push origin feature/awesome-feature
 
 ## 📚 License
 
-MIT License - See [LICENSE](LICENSE) for full details.
+MIT License - See [LICENSE]([LICENSE](https://github.com/B202404016/Tetris-game-/blob/main/LICENSE)) for full details.
 
